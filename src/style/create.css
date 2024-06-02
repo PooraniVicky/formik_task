@@ -1,0 +1,39 @@
+/* Custom CSS for Create component */
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: auto;
+    background-image: url(/public/background.jpg);
+ 
+    background-repeat: no-repeat; 
+    h3{
+        margin-top: 10px;
+        padding: 20px;
+        color: brown;
+    }
+  }
+  
+  .form-box-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px ;
+    width: 50%;
+    height: auto;
+    /* background-image: url(/public/bookcard.png); */
+    background-color: rgb(169, 193, 238);
+  }
+  
+  /* Input form adjustments */
+  .form-control {
+    width: 100%;
+
+  }
+  
+  /* Center button */
+  #btn-div {
+    text-align: center;
+  }
+  
