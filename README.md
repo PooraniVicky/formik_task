@@ -11,7 +11,7 @@ This project is a basic React application designed to demonstrate the use of For
 - Form handling with Formik
 - Validation with Formik
 - Routing with React Router
-- Simple form editing functionality
+- Simple form validation functionality
 
 ## Installation
 
