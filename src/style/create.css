@@ -22,8 +22,7 @@
     border-radius: 5px ;
     width: 50%;
     height: auto;
-    /* background-image: url(/public/bookcard.png); */
-    background-color: rgb(169, 193, 238);
+    background-color: rgb(206, 170, 70);
   }
   
   /* Input form adjustments */
